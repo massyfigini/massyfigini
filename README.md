@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Massy, you can find my contact info on (my website)[massyfigini.github.io]
+
 <!--
 **massyfigini/massyfigini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
