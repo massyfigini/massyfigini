@@ -20,7 +20,7 @@
 
 <!---⚡ Fun fact (any ideas?)-->
 
-<p align="left"> <a href="https://twitter.com/massyfigini" target="blank"><img src="https://img.shields.io/twitter/follow/massyfigini?logo=twitter&style=for-the-badge" alt="massyfigini" /></a> </p>
+- <p align="left"> <a href="https://twitter.com/massyfigini" target="blank"><img src="https://img.shields.io/twitter/follow/massyfigini?logo=twitter&style=for-the-badge" alt="massyfigini" /></a> </p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
