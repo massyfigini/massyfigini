@@ -2,6 +2,10 @@
 
 I'm Massy, you can find some information about me on [my website](https://massyfigini.github.io)
 
+<br>
+
+![the-matrix-has-you](https://user-images.githubusercontent.com/12718957/129731422-854b6c05-cceb-4d4b-94bf-a84ec40b2a5f.gif)
+
 <!--
 **massyfigini/massyfigini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
