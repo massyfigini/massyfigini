@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Massy</h1>
+<br>
+<h1 align="center">![the-matrix-has-you](https://user-images.githubusercontent.com/12718957/129731422-854b6c05-cceb-4d4b-94bf-a84ec40b2a5f.gif)</h1>
+<br>
 <h3 align="center">A passionate Data Engineer from Italy (currently working in Switzerland)</h3>
 
 <p align="left"> <a href="https://twitter.com/massyfigini" target="blank"><img src="https://img.shields.io/twitter/follow/massyfigini?logo=twitter&style=for-the-badge" alt="massyfigini" /></a> </p>
@@ -42,9 +45,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=massyfigini&" alt="massyfigini" /></p>
 
-<br>
-
-![the-matrix-has-you](https://user-images.githubusercontent.com/12718957/129731422-854b6c05-cceb-4d4b-94bf-a84ec40b2a5f.gif)
 
 <!--
 **massyfigini/massyfigini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
