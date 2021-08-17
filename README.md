@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/massimilianofigini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="massimilianofigini" height="30" width="40" /></a>
 <a href="https://twitter.com/massyfigini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="massyfigini" height="30" width="40" /></a>
-<a href="https://hashnode.com/@massyfigini" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="massyfigini" height="30" width="40" /></a>
+<a href="https://hashnode.com/@massyfigini" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="massyfigini" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/6889039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6889039" height="30" width="40" /></a>
 <a href="https://kaggle.com/massyfigini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="massyfigini" height="30" width="40" /></a>
 </p>
