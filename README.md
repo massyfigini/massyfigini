@@ -5,7 +5,6 @@
 </p>
 <h3 align="center">A passionate Data Engineer from Italy (currently working in Switzerland)</h3>
 <br>
-<p align="left"> <a href="https://twitter.com/massyfigini" target="blank"><img src="https://img.shields.io/twitter/follow/massyfigini?logo=twitter&style=for-the-badge" alt="massyfigini" /></a> </p>
 
 - 🔭 I’m working for [Consulcesi Tech](https://www.consulcesi.tech/)
 
@@ -20,6 +19,8 @@
 <!---📄 Know about my experiences (link resume)-->
 
 <!---⚡ Fun fact (any ideas?)-->
+
+<p align="left"> <a href="https://twitter.com/massyfigini" target="blank"><img src="https://img.shields.io/twitter/follow/massyfigini?logo=twitter&style=for-the-badge" alt="massyfigini" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
