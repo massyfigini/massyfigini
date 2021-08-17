@@ -37,16 +37,17 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="r" width="40" height="40"/> </a> 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank"> <img src="https://massyfigini.github.io/assets/Tableau_logo.png" alt="tableau" width="40" height="40"/> </a> </p>
 <br>
-<!---MONGO DB LOGO
+<!--- MONGO DB LOGO
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 -->
 
-<!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=massyfigini&show_icons=true&locale=en&layout=compact" alt="massyfigini" /></p>-->
+<!--- STATS
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=massyfigini&show_icons=true&locale=en&layout=compact" alt="massyfigini" /></p>
 
-<!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=massyfigini&show_icons=true&locale=en" alt="massyfigini" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=massyfigini&show_icons=true&locale=en" alt="massyfigini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=massyfigini&" alt="massyfigini" /></p>
-
+-->
 
 <!--
 **massyfigini/massyfigini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
