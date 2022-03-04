@@ -12,7 +12,7 @@
 
 <!---👨‍💻 Some of my projects are available at (future section)-->
 
-- 📝 You can find my notes at [massyfigini.hashnode.dev](https://massyfigini.hashnode.dev/)
+- 📝 You can find my notes on [hashnode](https://massyfigini.hashnode.dev/)
 
 - 📫 You can reach me through [my website](https://massyfigini.github.io)
 
