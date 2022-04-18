@@ -8,7 +8,7 @@
 
 - 🔭 I’m working for [Consulcesi Tech](https://www.consulcesi.tech/)
 
-- 🌱 I’m currently learning a lot of [Azure services](https://azure.microsoft.com/en-us/)!
+<!--- 🌱 I’m currently improving my skills on a lot of [Azure services](https://azure.microsoft.com/en-us/)!-->
 
 <!---👨‍💻 Some of my projects are available at (future section)-->
 
