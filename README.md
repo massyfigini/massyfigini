@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Massy</h1>
 <br>
-<h3 align="center">A passionate Data Engineer from Italy (currently working in Switzerland)</h3>
+<h3 align="center">A passionate Data Engineer from Italy</h3>
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12718957/129731422-854b6c05-cceb-4d4b-94bf-a84ec40b2a5f.gif" />
