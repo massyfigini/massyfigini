@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/12718957/129731422-854b6c05-cceb-4d4b-94bf-a84ec40b2a5f.gif" />
 </p>
 
-- 🔭 I’m working for [Consulcesi Tech](https://www.consulcesi.tech/)
+- 🔭 I’m working for [340Basics](https://340basics.com/)
 
 <!--- 🌱 I’m currently improving my skills on a lot of [Azure services](https://azure.microsoft.com/en-us/)!-->
 
