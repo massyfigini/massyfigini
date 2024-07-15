@@ -5,7 +5,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12718957/129731422-854b6c05-cceb-4d4b-94bf-a84ec40b2a5f.gif" />
 </p>
-<br>
+<br><br>
+
 - 🔭 I’m working for [Nuvem](https://nuvem.com/)
 
 <!--- 🌱 I’m currently improving my skills on a lot of [Azure services](https://azure.microsoft.com/en-us/)!-->
